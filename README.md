@@ -22,14 +22,12 @@ This Supplemental Material provides video files associated with the manuscript â
 ## Movie S1
 Video corresponding to Fig. 3 in Sec. $Introduction$.
 
-<video src='[your URL here](https://github.com/user-attachments/assets/d78d5bb1-e729-4821-91ff-7258c22e6d5f)' width=180/>
-  
 https://github.com/user-attachments/assets/d78d5bb1-e729-4821-91ff-7258c22e6d5f
 
 ## Movie S2 
 Video corresponding to Fig. 8 in Sec. A1. $Quantum\ Printing\ in\ superconductors$.
 
-https://github.com/user-attachments/assets/147f9e6e-85a7-47a8-8336-e56a41b51aa8
+https://github.com/user-attachments/assets/fd42d9d7-6300-4a51-bc83-104b4e3264c3
 
 
 ## Movie S3 
