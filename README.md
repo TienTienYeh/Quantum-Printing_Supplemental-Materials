@@ -20,24 +20,28 @@ $^{12}Light\ and\ Matter\ Physics,\ School\ of\ Engineering\ Sciences,\ KTH\ Roy
 This Supplemental Material provides video files associated with the manuscript ‘Quantum Printing’ [DOI URL]. The videos illustrate dynamical processes not fully captured in static figures, including vortex motion, quantum fluid dynamics, and skyrmion printing.
 
 ## Movie S1
-Video corresponding to Fig. 3 in Sec. $Introduction$.
+Video corresponding to Fig. 3 in Sec. $Introduction$. [Download Movie S1](https://pages.github.com/](https://github.com/user-attachments/assets/d78d5bb1-e729-4821-91ff-7258c22e6d5f)
+Preview:
 
 https://github.com/user-attachments/assets/d78d5bb1-e729-4821-91ff-7258c22e6d5f
 
 ## Movie S2 
-Video corresponding to Fig. 8 in Sec. A1. $Quantum\ Printing\ in\ superconductors$.
+Video corresponding to Fig. 8 in Sec. A1. $Quantum\ Printing\ in\ superconductors$. [Download Movie S2](https://github.com/user-attachments/assets/fd42d9d7-6300-4a51-bc83-104b4e3264c3)
+Preview:
 
 https://github.com/user-attachments/assets/fd42d9d7-6300-4a51-bc83-104b4e3264c3
 
 
 ## Movie S3 
-Video corresponding to Fig. 11 in Sec. A4. $Quantum\ Printing\ in\ Transverse\ Quantum\ Fluids\ (QHE\ Systems)$.  
+Video corresponding to Fig. 11 in Sec. A4. $Quantum\ Printing\ in\ Transverse\ Quantum\ Fluids\ (QHE\ Systems)$. [Download Movie S3](https://github.com/user-attachments/assets/ec32782d-a380-42a6-8481-16eb80f4bf45) 
+Preview:
 
 https://github.com/user-attachments/assets/ec32782d-a380-42a6-8481-16eb80f4bf45
 
 
 ## Movie S4
-Video corresponding to Fig. 14 in Sec. B2 $Quantum\ printing\ in\ magnetic\ materials:\ skyrmion\ printing$.
+Video corresponding to Fig. 14 in Sec. B2 $Quantum\ printing\ in\ magnetic\ materials:\ skyrmion\ printing$. [Download Movie S4](https://github.com/user-attachments/assets/8bdfd68d-4010-4266-bc2f-0028f5684bb5) 
+Preview:
 
 https://github.com/user-attachments/assets/8bdfd68d-4010-4266-bc2f-0028f5684bb5
 
