@@ -14,7 +14,7 @@ $^{9}Center\ for\ Quantum\ Spintronics,\ Department\ of\ Physics,\ Norwegian\ Un
 $^{10}Theory\ Division\ and\ ^{11}Center\ for\ Integrated\ Nanotechnology,\ Los\ Alamos\ National\ Laboratory,\ Los\ Alamos,\ New\ Mexico\ 87545,\ USA;$
 $^{12}Light\ and\ Matter\ Physics,\ School\ of\ Engineering\ Sciences,\ KTH\ Royal\ Institute\ of\ Technology\ ,\ SE-100\ 44\ Stockholm,\ Sweden.$
 
-#[![arXiv](https://img.shields.io/badge/arXiv-2412.00935-b31b1b.svg?style=plastic)](https://arxiv.org/abs/1234.5678)
+#[![arXiv](https://img.shields.io/badge/arXiv-2412.00935-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2509.16792)
 
 ## Introduction
 This Supplemental Material provides video files associated with the manuscript ‘Quantum Printing’ [DOI URL]. The videos illustrate dynamical processes not fully captured in static figures, including vortex motion, quantum fluid dynamics, and skyrmion printing.
